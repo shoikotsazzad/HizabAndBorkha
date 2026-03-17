@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(xargs sed:*)",
+      "WebFetch(domain:unsplash.com)",
+      "WebFetch(domain:www.pexels.com)",
+      "WebFetch(domain:images.unsplash.com)",
+      "WebFetch(domain:loremflickr.com)",
+      "WebFetch(domain:plus.unsplash.com)",
+      "WebFetch(domain:emaanbd.com)",
+      "WebFetch(domain:www.modestbd.com)"
+    ]
+  }
+}
